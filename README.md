@@ -1,3 +1,8 @@
+
+[![](https://visitcount.itsvg.in/api?id=ramtsps&icon=0&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 💫 About Me:
 👨‍💻 Full-stack web & mobile developer<br>🌐 Specializing in real-time applications<br>🚀 Proficient in React.js, React Native, Node.js<br>📱 Passionate about crafting seamless user experiences<br>🔧 Always learning and exploring new technologies<br>📫 Let's collaborate and build something amazing!
 
@@ -25,7 +30,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramtsps&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
